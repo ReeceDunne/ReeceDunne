@@ -1,4 +1,4 @@
-Hi 👋 My name is Reece Dunne
+Hi 👋 My name is Reece
 ============================
 
 Developer
