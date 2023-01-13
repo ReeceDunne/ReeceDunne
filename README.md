@@ -7,7 +7,7 @@ Developer
 I am a full-stack developer with a passion for development. I am a full-time software developer with years of experience in Software Development.
 
 * 🌍  I'm based in Birmingham, UK
-* 🧠  I'm learning Everything JavaScript
+* 🧠  I'm learning everything JavaScript
 
 ### Skills
 
