@@ -1,13 +1,13 @@
 Hi 👋 My name is Reece
 ============================
 
-Developer
+Software Developer
 ---------
 
-I am a full-stack developer with a passion for development. I am a full-time software developer with years of experience in Software Development.
+I'm a full-time full-stack developer with a passion for development and years of experience in Software Development.
 
 * 🌍  I'm based in Birmingham, UK
-* 🧠  I'm learning everything JavaScript
+* 🧠  I'm learning everything JavaScript, MySQL, and GCP
 
 ### Skills
 
